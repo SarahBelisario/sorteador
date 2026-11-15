@@ -16,7 +16,7 @@ Site responsivo de sorteio de números, desenvolvido com HTML, CSS e JavaScript,
 - Não afirme que algo foi testado ou validado quando não foi.
 - Não crie outros agentes sem minha solicitação.
 
-- Consulte o README.md para entender os requisitos do projeto.
+- Consulte o REQUISITOS.md para entender os requisitos do projeto.
 - A sequência das etapas está no TASKS.md.
 - A lista de tarefas não autoriza execução automática.
 - Trabalhe apenas na etapa que eu solicitar, sem avançar
