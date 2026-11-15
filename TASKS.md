@@ -1,0 +1,28 @@
+# Tarefas
+
+- [x] Criar a estrutura do projeto com pastas e arquivos HTML, CSS e JS;
+- [x] Linkar o CSS e o JS no arquivo HTML;
+- [ ] Adicionar título principal e seção de explicação no HTML;
+- [ ] Criar formulário com campos para quantidade, mínimo, máximo e opção “Não repetir números”;
+- [ ] Adicionar botão “Sortear” e área para exibir mensagens e resultados;
+- [ ] Aplicar reset/normalize básico no CSS;
+- [ ] Definir variáveis de cores, fontes e espaçamentos no CSS;
+- [ ] Estilizar layout com duas colunas: explicação e formulário;
+- [ ] Estilizar inputs, botão e área de resultados;
+- [ ] Criar estilo para mensagens de erro e sucesso;
+- [ ] Tornar a página responsiva para desktop, tablet e mobile;
+- [ ] Adicionar labels e aria-live para acessibilidade;
+- [ ] Validar se os campos não estão vazios;
+- [ ] Validar se o máximo é maior que o mínimo;
+- [ ] Validar se a quantidade não ultrapassa o intervalo quando “Não repetir” estiver marcado;
+- [ ] Mostrar mensagens de erro claras quando as validações falhem;
+- [ ] Criar função para sortear números com repetição;
+- [ ] Criar função para sortear números sem repetição;
+- [ ] Garantir que o sorteio inclua os valores mínimo e máximo;
+- [ ] Exibir os números sorteados na tela;
+- [ ] Limpar os resultados anteriores antes de cada sorteio;
+- [ ] Adicionar animação simples antes de exibir os números;
+- [ ] Desabilitar o botão durante a animação e reabilitar ao final;
+- [ ] Mostrar mensagem de sucesso após o sorteio;
+- [ ] Subir o código do Desafio no GitHub para ter um projeto a mais no portfólio;
+- [ ] Escrever um README explicando como rodar e visualizar o portfólio.
